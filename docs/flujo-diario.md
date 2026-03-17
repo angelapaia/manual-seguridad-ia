@@ -52,7 +52,7 @@ La IA tomará las restricciones como parte del contexto y generará código segu
 **Nunca hagas un commit sin auditar.** Ejecuta la skill maestra antes de subir el código:
 
 ```bash
-npx github:JefferCB1/skill_auditor_seguridad
+npx github:angelapaia/skill_auditor_seguridad
 ```
 
 La herramienta asume el rol de un Ingeniero de Seguridad, analiza los archivos modificados y emite un reporte estructurado. Si el reporte indica alertas rojas, corrígelas antes de continuar.
