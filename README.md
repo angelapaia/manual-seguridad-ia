@@ -102,7 +102,7 @@ Cada riesgo tiene su propio documento con: descripción del problema, ejemplo de
 
 ```bash
 # Auditoría de seguridad completa antes de cada commit
-npx github:JefferCB1/skill_auditor_seguridad
+npx skill-seguridad-ia
 ```
 
 ### Hooks automáticos (aitmpl.com)
